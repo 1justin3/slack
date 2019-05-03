@@ -630,7 +630,7 @@ ts-mention {
   .c-channel_insights__member_count .ts_icon_user {
     color: var(--primary); }
 .c-member_slug--link {
-color: #FFF
+background: var(--text);
 }
 .channel_page_members,
 .channel_page_about,
