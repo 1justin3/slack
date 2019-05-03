@@ -1770,7 +1770,7 @@ feature_archive_deeplink feature_texty winssb light_theme {
   font-family: var(--font-family) !important;
   margin-left: 20px !important; }
 
-.c-link .c-member_slug .c-member_slug--link {
+.a .c-link .c-member_slug .c-member_slug--link {
   background: #999;
   color: #999 }
 
