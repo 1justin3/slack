@@ -1771,6 +1771,7 @@ feature_archive_deeplink feature_texty winssb light_theme {
   margin-left: 20px !important; }
 
 .c-link .c-member_slug .c-member_slug--link {
-  background: #AAA; }
+  background: #999;
+  color: #999 }
 
 /*# sourceMappingURL=custom.css.map */
