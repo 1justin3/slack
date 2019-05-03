@@ -629,9 +629,7 @@ ts-mention {
   color: var(--primary); }
   .c-channel_insights__member_count .ts_icon_user {
     color: var(--primary); }
-.c-member_slug--link {
-background: var(--text);
-}
+
 .channel_page_members,
 .channel_page_about,
 .channel_page_pinned_items,
@@ -1771,5 +1769,8 @@ feature_archive_deeplink feature_texty winssb light_theme {
   font-weight: lighter !important;
   font-family: var(--font-family) !important;
   margin-left: 20px !important; }
+
+.c-member_slug--link {
+  background: var(--text); }
 
 /*# sourceMappingURL=custom.css.map */
